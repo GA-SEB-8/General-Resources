@@ -6,6 +6,14 @@ One of the fantastic advantages of a bootcamp is that you learn an incredible am
 
 I have put some ideas below on how to ensure you don't lose the knowledge that you gained at GA.
 
+After a week you'll lose about 5% of what you learned,
+
+After two weeks you'll lose about 20%
+
+After a month you'll lose about 50%
+
+Take a little bit of time to chill but don't leave it too long!
+
 ## Start project 5
 
 Pick a technology that you learnt during the course e.g. MEN, MERN, Django, React. and build another project with that stack. Just remember that every problem can be solved, but you'll just need to solve them yourself using google and the docs. Create a project that you are proud of and if you face a roadblock, work at it until you have overcome that roadblock.
