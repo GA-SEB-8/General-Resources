@@ -14,6 +14,10 @@ Pick a technology that you learnt during the course e.g. MEN, MERN, Django, Reac
 
 This is by far the best way to get good at "problem solving" also it works very similarly to how many tecnical interviews work too. https://www.codewars.com/dashboard
 
+Keep your brain working by completing the 7-8 kyu challenges. If you're feeling ambitious try a 6kyu, but if it's too hard and you can't do it, don't get disheartened, just skip it and go back to a 7.
+
+Also remember Codewars rewards people for 'looking cool' and making completely unreadable but clever 1 liner answers. Make sure you read these solutions as they can be quite eye opening but understand that they are rarely 'best practice'. the best solution is the one that works, and is the easiest to read!
+
 ## Try Hackerrank
 
 Hackerrank is a little bit like codewars, but with a more structured approach. You can practice your skills here: https://www.hackerrank.com/dashboard and they even have certifications: https://www.hackerrank.com/skills-verification. The certifications don't actually 'mean' anything but they give you the opportunity to check your knowledge and show the level you're at. They look great on linked in too!
