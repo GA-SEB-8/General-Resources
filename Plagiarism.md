@@ -17,7 +17,8 @@ However, the line separating what is plagiarism from what isn't plagiarism can g
 
 For our purposes within SEB, we say that plagiarism consists of two pieces:
 
-1. Using someone else's work, and
+1. Using someone/something else's work.
+   AND
 2. Lying about this use.
 
 In order to be considered plagiarism, something will usually need to meet both 1. and 2. This won't *always* be the case; we'll cover this later.
