@@ -1,7 +1,5 @@
 # What to do after the bootcamp has finished
 
-Congratulations for finishing the bootcamp! You should be super proud of getting this far.
-
 One of the fantastic advantages of a bootcamp is that you learn an incredible amount of stuff in a really short ammount of time. Unfortunately the downside of a bootcamp is that you can lose the knowledge just as quickly as you gained it.
 
 I have put some ideas below on how to ensure you don't lose the knowledge that you gained at GA.
